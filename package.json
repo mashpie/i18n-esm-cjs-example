@@ -1,0 +1,8 @@
+{
+  "name": "i18n-esm-cjs-example",
+  "version": "0.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "i18n": "^0.15.1"
+  }
+}
